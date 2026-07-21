@@ -97,7 +97,7 @@ A modular monolith backend across 16 packages powering a two-sided legal marketp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chatok-jnr&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chatok-jnr&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=chatok-jnr&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">

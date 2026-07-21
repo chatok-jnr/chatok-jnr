@@ -84,7 +84,7 @@ A modular monolith backend across 16 packages powering a two-sided legal marketp
 
 | Platform | Handle | Rating |
 |---|---|---|
-| Codeforces | [sakibAnsary](https://codeforces.com/profile/sakibAnsary) | Pupil (Max 1389) — 600+ solved |
+| Codeforces | [chatok.jr](https://codeforces.com/profile/chatok.jr) | Pupil (Max 1389) — 600+ solved |
 | CodeChef | [chatok_junior](https://www.codechef.com/users/chatok_junior) | 3★ (Max 1724) |
 
 - 🥈 ICPC Asia Dhaka Regional Finalist — 2024, 2025 (Team **UITS_ACES**)

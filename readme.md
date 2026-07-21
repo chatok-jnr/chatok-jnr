@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Md. Sakib Hosen 👋</h1>
-<h3 align="center">Junior Backend Developer | Competitive Programmer</h3>
+<h3 align="center">Jr. Backend Developer (MERN) Intern @ Maktech | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+%2F+Spring+Boot;Node.js+%2F+Express+%2F+Prisma;Competitive+Programmer+%40+ICPC;Building+secure%2C+scalable+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Jr+Backend+Developer+(MERN)+Intern+%40+Maktech;Working+with+Express.js+%2F+Node.js;Java+%2F+Spring+Boot+%7C+Prisma+%2F+PostgreSQL;Competitive+Programmer+%40+ICPC" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 
 ### 🧑‍💻 About Me
 
+- 💼 Jr. Backend Developer (MERN) Intern @ **Maktech**, currently working with **Express.js**
 - 🔭 Currently building **LegalAid** — a two-sided legal services marketplace backend
-- 💼 Backend Developer Intern @ **Maktech**
 - 🌱 Deepening my skills in **Spring Security, JPA, PostgreSQL, and system design**
 - 🏆 ICPC Asia Dhaka Regional Finalist (2024, 2025) with **UITS_ACES**
 - 📍 Based in Dhaka, Bangladesh
@@ -53,6 +53,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
+
+---
+
+### 💼 Currently
+
+Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST APIs and backend services with **Express.js** and the Node.js ecosystem.
 
 ---
 

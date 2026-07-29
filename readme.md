@@ -75,14 +75,6 @@ Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST A
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatok-jnr&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   📫 Reach me at <a href="mailto:md.sakib.hos3n@gmail.com">md.sakib.hos3n@gmail.com</a>
 </p>

@@ -78,11 +78,6 @@ Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST A
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chatok-jnr&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=chatok-jnr&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chatok-jnr&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 

@@ -62,24 +62,6 @@ Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST A
 
 ---
 
-### 🚀 Featured Project
-
-#### [LegalAid — Legal Services Marketplace Platform](https://github.com/chatok-jnr/LegalAid-Backend)
-`Java 21` `Spring Boot 3.x` `Spring Security` `PostgreSQL` `JWT` `Cloudinary`
-
-A modular monolith backend across 16 packages powering a two-sided legal marketplace with `CLIENT`, `LAWYER`, and `ADMIN` roles.
-
-- 🗄️ 35-table PostgreSQL schema with soft deletes, composite partial indexes, and DB-level rating triggers
-- 🔐 Stateless JWT auth with Google OAuth 2.0, rotating refresh tokens in HttpOnly cookies, and `@PreAuthorize` role guards
-- 💰 bKash escrow payment flow with a 6-state lifecycle and manual TxnID verification
-- 📜 Contract state machine with role-based cancellation rules and service snapshotting
-- ☁️ Cloudinary file uploads with MIME/size validation and orphan cleanup
-- 🔔 Async notification system covering 19 event types via `@Async`
-- ⚡ Fixed an N+1 query bottleneck — reduced queries from 72 to 1 per page using `@EntityGraph`
-- 🐳 Dockerized and deployed to Render via Docker Hub
-
----
-
 ### 🏆 Competitive Programming
 
 | Platform | Handle | Rating |
@@ -89,7 +71,7 @@ A modular monolith backend across 16 packages powering a two-sided legal marketp
 
 - 🥈 ICPC Asia Dhaka Regional Finalist — 2024, 2025 (Team **UITS_ACES**)
 - 🥇 Champion — UITS Hackify Fest Programming Contest 2025, Intra University Programming Contest 2025
-- 🎯 Competed in 5 Inter-University Programming Contests (IUT, KUET, UIU, AUST, UU)
+- 🎯 Competed in 6 Inter-University Programming Contests (IUT, KUET, UIU, AUST, UU, IUT)
 
 ---
 

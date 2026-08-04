@@ -15,12 +15,12 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 💼 Jr. Backend Developer (MERN) Intern @ **Maktech**, currently working with **Express.js**
-- 🏆 ICPC Asia Dhaka Regional Finalist (2024, 2025) with **UITS_ACES**
-- 📍 Based in Dhaka, Bangladesh
-- 🎓 B.Sc. in CSE @ University of Information Technology & Sciences (Dec 2026)
+- Jr. Backend Developer (MERN) Intern @ **Maktech**, currently working with **Express.js**
+- ICPC Asia Dhaka Regional Finalist (2024, 2025) with **UITS_ACES**
+- Based in Dhaka, Bangladesh
+- B.Sc. in CSE @ University of Information Technology & Sciences (Dec 2026)
 
 ---
 
@@ -55,13 +55,13 @@
 
 ---
 
-### 💼 Currently
+### Currently
 
 Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST APIs and backend services with **Express.js** and the Node.js ecosystem.
 
 ---
 
-### 🏆 Competitive Programming
+### Competitive Programming
 
 - Codeforces: [chatok.jr](https://codeforces.com/profile/chatok.jr) Pupil (Max 1389) — 600+ solved
 - CodeChef  : [chatok_junior](https://www.codechef.com/users/chatok_junior) 3★ (Max 1724)

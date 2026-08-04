@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Md. Sakib Hosen 👋</h1>
+<h3 align="center">Hi there</h3>
+<h1 align="center">I'm Md. Sakib Hosen AKA Chatok Junior</h1> 
 <h3 align="center">Jr. Backend Developer (MERN) Intern @ Maktech | Competitive Programmer</h3>
 
 <p align="center">
@@ -17,8 +18,6 @@
 ### 🧑‍💻 About Me
 
 - 💼 Jr. Backend Developer (MERN) Intern @ **Maktech**, currently working with **Express.js**
-- 🔭 Currently building **LegalAid** — a two-sided legal services marketplace backend
-- 🌱 Deepening my skills in **Spring Security, JPA, PostgreSQL, and system design**
 - 🏆 ICPC Asia Dhaka Regional Finalist (2024, 2025) with **UITS_ACES**
 - 📍 Based in Dhaka, Bangladesh
 - 🎓 B.Sc. in CSE @ University of Information Technology & Sciences (Dec 2026)
@@ -64,10 +63,8 @@ Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST A
 
 ### 🏆 Competitive Programming
 
-| Platform | Handle | Rating |
-|---|---|---|
-| Codeforces | [chatok.jr](https://codeforces.com/profile/chatok.jr) | Pupil (Max 1389) — 600+ solved |
-| CodeChef | [chatok_junior](https://www.codechef.com/users/chatok_junior) | 3★ (Max 1724) |
+- Codeforces | [chatok.jr](https://codeforces.com/profile/chatok.jr) | Pupil (Max 1389) — 600+ solved |
+- CodeChef | [chatok_junior](https://www.codechef.com/users/chatok_junior) | 3★ (Max 1724) |
 
 - 🥈 ICPC Asia Dhaka Regional Finalist — 2024, 2025 (Team **UITS_ACES**)
 - 🥇 Champion — UITS Hackify Fest Programming Contest 2025, Intra University Programming Contest 2025

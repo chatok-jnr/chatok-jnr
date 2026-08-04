@@ -1,6 +1,6 @@
-<h3 align="center">Hi there</h3>
-<h1 align="center">I'm Md. Sakib Hosen AKA Chatok Junior</h1> 
-<h3 align="center">Jr. Backend Developer (MERN) Intern @ Maktech | Competitive Programmer</h3>
+<h3 align="center">Hi there, I'm</h3>
+<h1 align="center">Md. Sakib Hosen AKA Chatok Junior</h1> 
+<h3 align="center">Backend Developer (MERN) Intern @ Maktech | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Jr+Backend+Developer+(MERN)+Intern+%40+Maktech;Working+with+Express.js+%2F+Node.js;Java+%2F+Spring+Boot+%7C+Prisma+%2F+PostgreSQL;Competitive+Programmer+%40+ICPC" alt="Typing SVG" />
@@ -65,12 +65,12 @@ Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST A
 
 - Codeforces: [chatok.jr](https://codeforces.com/profile/chatok.jr) Pupil (Max 1389) — 600+ solved
 - CodeChef  : [chatok_junior](https://www.codechef.com/users/chatok_junior) 3★ (Max 1724)
-- 🥈 ICPC Asia Dhaka Regional Finalist — 2024, 2025 (Team **UITS_ACES**)
-- 🥇 Champion — UITS Hackify Fest Programming Contest 2025, Intra University Programming Contest 2025
-- 🎯 Competed in 6 Inter-University Programming Contests (IUT, KUET, UIU, AUST, UU, IUT)
+- ICPC Asia Dhaka Regional Finalist — 2024, 2025 (Team **UITS_ACES**)
+- Champion — UITS Hackify Fest Programming Contest 2025, Intra University Programming Contest 2025
+- Competed in 6 Inter-University Programming Contests (IUT, KUET, UIU, AUST, UU, IUT)
 
 ---
 
 <p align="center">
-  📫 Reach me at <a href="mailto:md.sakib.hos3n@gmail.com">md.sakib.hos3n@gmail.com</a>
+  Reach me at <a href="mailto:md.sakib.hos3n@gmail.com">md.sakib.hos3n@gmail.com</a>
 </p>

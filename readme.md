@@ -63,9 +63,8 @@ Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST A
 
 ### 🏆 Competitive Programming
 
-- Codeforces | [chatok.jr](https://codeforces.com/profile/chatok.jr) | Pupil (Max 1389) — 600+ solved |
-- CodeChef | [chatok_junior](https://www.codechef.com/users/chatok_junior) | 3★ (Max 1724) |
-
+- Codeforces: [chatok.jr](https://codeforces.com/profile/chatok.jr) Pupil (Max 1389) — 600+ solved
+- CodeChef  : [chatok_junior](https://www.codechef.com/users/chatok_junior) 3★ (Max 1724)
 - 🥈 ICPC Asia Dhaka Regional Finalist — 2024, 2025 (Team **UITS_ACES**)
 - 🥇 Champion — UITS Hackify Fest Programming Contest 2025, Intra University Programming Contest 2025
 - 🎯 Competed in 6 Inter-University Programming Contests (IUT, KUET, UIU, AUST, UU, IUT)

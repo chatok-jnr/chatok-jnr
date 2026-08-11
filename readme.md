@@ -19,8 +19,6 @@
 
 - Jr. Backend Developer (MERN) Intern @ **Maktech**, currently working with **Express.js**
 - ICPC Asia Dhaka Regional Finalist (2024, 2025) with **UITS_ACES**
-- Based in Dhaka, Bangladesh
-- B.Sc. in CSE @ University of Information Technology & Sciences (Dec 2026)
 
 ---
 

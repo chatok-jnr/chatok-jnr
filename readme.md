@@ -7,10 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://iamchatokjunior.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/chatok-junior"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:md.sakib.hos3n@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/chatok-jnr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://iamchatokjunior.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/chatok-junior">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:md.sakib.hos3n@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/chatok-jnr">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -29,6 +37,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -55,14 +64,14 @@
 
 ### Currently
 
-Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST APIs and backend services with **Express.js** and the Node.js ecosystem.
+Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST APIs and backend services with **Express.js**, **TypeScript**, and the Node.js ecosystem.
 
 ---
 
 ### Competitive Programming
 
 - Codeforces: [chatok.jr](https://codeforces.com/profile/chatok.jr) Pupil (Max 1389) — 600+ solved
-- CodeChef  : [chatok_junior](https://www.codechef.com/users/chatok_junior) 3★ (Max 1724)
+- CodeChef: [chatok_junior](https://www.codechef.com/users/chatok_junior) 3★ (Max 1724)
 - ICPC Asia Dhaka Regional Finalist — 2024, 2025 (Team **UITS_ACES**)
 - Champion — UITS Hackify Fest Programming Contest 2025, Intra University Programming Contest 2025
 - Competed in 6 Inter-University Programming Contests (IUT, KUET, UIU, AUST, UU, IUT)

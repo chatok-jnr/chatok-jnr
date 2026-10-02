@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm</h3>
 <h1 align="center">Md. Sakib Hosen AKA Chatok Junior</h1> 
-<h3 align="center">Backend Developer (MERN) Intern @ Maktech | Competitive Programmer</h3>
+<h3 align="center">Backend Developer | Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Working+with;Express.js+%2f+NestJs+-+TypeScript;Spring+Boot(Java);PostgreSQL+%2f+MySql+%2f+MongoDb;Competitive+Programmer+%40+ICPC" alt="Typing SVG" />

@@ -25,7 +25,7 @@
 
 ### About Me
 
-- Jr. Backend Developer (MERN) Intern @ **Maktech**, currently working with **Express.js**
+- Backend Developer | Spring Boot - Express.js - Postgresql
 - ICPC Asia Dhaka Regional Finalist (2024, 2025) with **UITS_ACES**
 
 ---

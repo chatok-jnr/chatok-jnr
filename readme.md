@@ -64,7 +64,7 @@
 
 ### Currently
 
-Working as a **Jr. Backend Developer (MERN) Intern at Maktech**, building REST APIs and backend services with **Express.js**, **TypeScript**, and the Node.js ecosystem.
+Brushing up my backend developing skill on **Spring Boot, Spring Security** framework and looking for an opportunity.
 
 ---
 
